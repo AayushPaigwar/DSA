@@ -1,5 +1,6 @@
 #include<stdio.h>
 main()
 {
- int a;
+ int n,a;
+ 
 }
