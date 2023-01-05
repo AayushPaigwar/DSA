@@ -29,7 +29,7 @@ int BinarySearch(int arr[],int size, int value)
 
 int main()
 {
-    int search[5]= {1,2,3,4,5};
+    int search[]= {1,2,3,4,5};
     int size = sizeof(search)/sizeof(search[0]);
     int value= 3;
     int index = BinarySearch(search, size, value);
